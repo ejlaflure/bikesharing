@@ -1,6 +1,6 @@
 # Des Moines Citi Bike Business Analysis 
 Des Moines Citi Bike business case utilizes data from successful NYC Citi Bike locations and adapts them to Dem Moines's unique environment. 
-Tableau Story acomaning this analysis: [Des Moines Citi Bike Business Case](https://public.tableau.com/profile/eric.laflure#!/vizhome/citibike_data_15937523295270/DesMoinesCitiBikeBusinessCase)
+Tableau Story accompanying this analysis: [Des Moines Citi Bike Business Case](https://public.tableau.com/profile/eric.laflure#!/vizhome/citibike_data_15937523295270/DesMoinesCitiBikeBusinessCase)
 
 ## New York City's Successful Citi Bike Business
 Currently New York City has a successful Citi Bike business. Data from the month of august was used to give a snapshot on how well the business functions monthly. Based on the data, the use of the Citi Bike services fluctuates a good amount throughout the month. Even with this, the usage never goes below 50,000 users a day and averages 73,000 – 82,000 users a day. The Citi Bike locations are widespread throughout, but majority of the widely used locations are located in New York City proper. This shows that focusing in a busy metropolitan area would be a good place to start.
